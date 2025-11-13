@@ -1,4 +1,4 @@
-# DataProject: Lógica en Katas de Python
+# DataProject: Logic in Python Katas
 
 ---
 
